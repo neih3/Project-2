@@ -1,0 +1,11 @@
+
+ 
+* {
+    box-sizing: inherit; /* box sizing la tinh toan , thay doi phan tu nao do de bang kick thuoc ban dau */
+}
+html {
+    font-size: 62,5%; /* 1 rem = 10px*/
+    line-height: 1.6rem;/*chieu cao dong = 16px */
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box; /* tinh toan content de bang do dai */
+}
